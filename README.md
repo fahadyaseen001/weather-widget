@@ -2,9 +2,6 @@
 
 A beautiful, customizable weather widget component that integrates seamlessly with shadcn/ui. It displays current weather information based on the user's location using the OpenWeatherMap API.
 
-![image](https://github.com/user-attachments/assets/e6cd50d5-2541-4042-946f-d1d7cc1b0e6f)
-
-
 ## Features
 
 -  Real-time weather data via OpenWeather API
@@ -19,11 +16,11 @@ A beautiful, customizable weather widget component that integrates seamlessly wi
 ## Installation
 Install the package
 ```bash
-npm install @your-org/weather-widget
+npm install @fahadyaseen001/weather-widget
 ```
 Or using yarn
 ```bash
-yarn add @your-org/weather-widget
+yarn add @fahadyaseen001/weather-widget
 ```
 ## Dependencies
 This component requires:
