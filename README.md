@@ -24,8 +24,6 @@ yarn add @fahadyaseen001/weather-widget
 ```
 ## Dependencies
 This component requires:
-## Dependencies
-This component requires:
 
 - React 18+
 - Next.js 14+ (App Router)
