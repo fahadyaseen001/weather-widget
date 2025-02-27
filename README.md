@@ -7,14 +7,14 @@ A beautiful, customizable weather widget component that integrates seamlessly wi
 
 ## Features
 
-- ⛅ Real-time weather data via OpenWeather API
-- 📍 Automatic geolocation detection
-- 🎨 Animated weather icons based on conditions
-- 🌓 Day/night mode support
-- 🔄 Automatic refresh at configurable intervals
-- 📱 Responsive design
-- ♿ Accessibility features for screen readers
-- 🎭 Optional mock data mode for testing
+-  Real-time weather data via OpenWeather API
+- Automatic geolocation detection
+- Animated weather icons based on conditions
+- Day/night mode support
+- Automatic refresh at configurable intervals
+- Responsive design
+- Accessibility features for screen readers
+- Optional mock data mode for testing
 
 ## Installation
 Install the package
@@ -234,17 +234,17 @@ Then navigate to `http://localhost:3000 `to see the widget in action.
 
 [screenshots.zip](https://github.com/user-attachments/files/18999752/screenshots.zip)
 
-## License 🧷
+## License 
 
 [MIT](https://github.com/fahadyaseen001/weather-widget/blob/main/LICENSE)
 
 
-## Support 💌
+## Support 
 
 For support, give the repo a star ⭐
 
 
-## Feedback ✍️
+## Feedback 
 
-If you have any feedback, please reach out to us at fahadyaseen102@gmail.com
+If you have any feedback, please reach out to us at fahadyaseen102@gmail.com 💌
 
