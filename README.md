@@ -1,8 +1,9 @@
-# Weather Widget for shadcn/ui
+# Weather Widget - Powered By ShadCN/UI
 
 A beautiful, customizable weather widget component that integrates seamlessly with shadcn/ui. It displays current weather information based on the user's location using the OpenWeatherMap API.
 
-![Weather Widget Screenshot](/api/placeholder/600/300)
+![image](https://github.com/user-attachments/assets/e6cd50d5-2541-4042-946f-d1d7cc1b0e6f)
+
 
 ## Features
 
@@ -227,17 +228,15 @@ Then navigate to `http://localhost:3000 `to see the widget in action.
 
 ## Demo
 
-Insert gif or link to demo
+[demo.zip](https://github.com/user-attachments/files/18999620/demo.zip)
 
+## Screenshots
 
-## Screenshot
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+[screenshots.zip](https://github.com/user-attachments/files/18999752/screenshots.zip)
 
 ## License 🧷
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/fahadyaseen001/weather-widget/blob/main/LICENSE)
 
 
 ## Support 💌
@@ -245,7 +244,7 @@ Insert gif or link to demo
 For support, give the repo a star ⭐
 
 
-## Feedback
+## Feedback ✍️
 
 If you have any feedback, please reach out to us at fahadyaseen102@gmail.com
 
