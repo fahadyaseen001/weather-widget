@@ -1,6 +1,6 @@
 # Weather Widget - Powered By ShadCN/UI
 
-A beautiful, customizable weather widget component that integrates seamlessly with shadcn/ui. It displays current weather information based on the user's location using the OpenWeatherMap API.
+A beautiful, customizable weather widget component that integrates seamlessly with shadcn/ui. It displays current weather information along with current location , date & time based on the user's location using the OpenWeatherMap API.
 
 ## Features
 
