@@ -350,20 +350,20 @@ const getWeatherIcon = (type: WeatherType, isDay: boolean, animated: boolean): R
   switch (type) {
     case 'clear':
       return isDay 
-        ? <Sun className="h-8 w-8 text-primary" aria-label="Clear day" /> 
-        : <Moon className="h-8 w-8 text-primary-foreground" aria-label="Clear night" />
+        ? <Sun className="h-8 w-8 text-amber-400 dark:text-amber-300" aria-label="Clear day" /> 
+        : <Moon className="h-8 w-8 text-slate-300 dark:text-slate-200" aria-label="Clear night" />
     case 'clouds':
-      return <Cloud className="h-8 w-8 text-secondary" aria-label="Cloudy weather" />
+      return <Cloud className="h-8 w-8 text-slate-500 dark:text-slate-300" aria-label="Cloudy weather" />
     case 'rain':
-      return <CloudRain className="h-8 w-8 text-blue-300" aria-label="Rainy weather" />
+      return <CloudRain className="h-8 w-8 text-blue-400 dark:text-blue-300" aria-label="Rainy weather" />
     case 'snow':
-      return <Snowflake className="h-8 w-8 text-secondary" aria-label="Snowy weather" />
+      return <Snowflake className="h-8 w-8 text-blue-300 dark:text-blue-200" aria-label="Snowy weather" />
     case 'thunderstorm':
-      return <CloudLightning className="h-8 w-8 text-yellow-300" aria-label="Thunderstorm weather" />
+      return <CloudLightning className="h-8 w-8 text-amber-400 dark:text-amber-300" aria-label="Thunderstorm weather" />
     case 'mist':
-      return <CloudMist className="h-8 w-8 text-secondary" aria-label="Misty weather" />
+      return <CloudMist className="h-8 w-8 text-slate-400 dark:text-slate-300" aria-label="Misty weather" />
     default:
-      return <Cloud className="h-8 w-8 text-secondary" aria-label="Unknown weather condition" />
+      return <Thermometer className="h-8 w-8 text-slate-500 dark:text-slate-300" aria-label="Unknown weather condition" />
   }
 }
 
