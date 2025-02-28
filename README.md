@@ -1,31 +1,27 @@
-# Weather Widget for shadcn/ui
+# Weather Widget - Powered By ShadCN/UI
 
-A beautiful, customizable weather widget component that integrates seamlessly with shadcn/ui. It displays current weather information based on the user's location using the OpenWeatherMap API.
-
-![Weather Widget Screenshot](/api/placeholder/600/300)
+A beautiful, customizable weather widget component that integrates seamlessly with shadcn/ui. It displays current weather information along with current location , date & time based on the user's location using the OpenWeatherMap API.
 
 ## Features
 
-- ⛅ Real-time weather data via OpenWeather API
-- 📍 Automatic geolocation detection
-- 🎨 Animated weather icons based on conditions
-- 🌓 Day/night mode support
-- 🔄 Automatic refresh at configurable intervals
-- 📱 Responsive design
-- ♿ Accessibility features for screen readers
-- 🎭 Optional mock data mode for testing
+-  Real-time weather data via OpenWeather API
+- Automatic geolocation detection
+- Animated weather icons based on conditions
+- Day/night mode support
+- Automatic refresh at configurable intervals
+- Responsive design
+- Accessibility features for screen readers
+- Optional mock data mode for testing
 
 ## Installation
 Install the package
 ```bash
-npm install @your-org/weather-widget
+npm install @fahadyaseen001/weather-widget
 ```
 Or using yarn
 ```bash
-yarn add @your-org/weather-widget
+yarn add @fahadyaseen001/weather-widget
 ```
-## Dependencies
-This component requires:
 ## Dependencies
 This component requires:
 
@@ -227,25 +223,23 @@ Then navigate to `http://localhost:3000 `to see the widget in action.
 
 ## Demo
 
-Insert gif or link to demo
+[demo.zip](https://github.com/user-attachments/files/18999620/demo.zip)
+
+## Screenshots
+
+[screenshots.zip](https://github.com/user-attachments/files/18999752/screenshots.zip)
+
+## License 
+
+[MIT](https://github.com/fahadyaseen001/weather-widget/blob/main/LICENSE)
 
 
-## Screenshot
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## License 🧷
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Support 💌
+## Support 
 
 For support, give the repo a star ⭐
 
 
-## Feedback
+## Feedback 
 
-If you have any feedback, please reach out to us at fahadyaseen102@gmail.com
+If you have any feedback, please reach out to us at fahadyaseen102@gmail.com 💌
 
