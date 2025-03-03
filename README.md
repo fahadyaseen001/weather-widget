@@ -6,11 +6,11 @@
 >
 > Check out this component on [21st.dev](https://21st.dev/fahadyaseen001/weather-widget/weather-widget-demo)
 
-A beautiful, customizable weather widget component that integrates seamlessly with shadcn/ui. It displays current weather information along with current location , date & time based on the user's location using the OpenWeatherMap API.
+A beautiful, customizable animated weather widget component that integrates seamlessly with shadcn/ui & modern web frameworks. It displays current weather information along with current location , date & time based on the user's location using the OpenWeatherMap API.
 
 ## Features
 
--  Real-time weather data via OpenWeather API
+- Real-time weather data via OpenWeather API
 - Automatic geolocation detection
 - Animated weather icons based on conditions
 - Day/night mode support
@@ -21,12 +21,21 @@ A beautiful, customizable weather widget component that integrates seamlessly wi
 
 ## Installation
 Install the package
+using npm
 ```bash
-npm install @fahadyaseen001/weather-widget
+npx shadcn@latest add "https://21st.dev/r/fahadyaseen001/weather-widget"
 ```
 Or using yarn
 ```bash
-yarn add @fahadyaseen001/weather-widget
+npx shadcn@latest add "https://21st.dev/r/fahadyaseen001/weather-widget"
+```
+Or using pnpm
+```bash
+pnpm dlx shadcn@latest add "https://21st.dev/r/fahadyaseen001/weather-widget"
+```
+Or using bun
+```bash
+bunx --bun shadcn@latest add "https://21st.dev/r/fahadyaseen001/weather-widget"
 ```
 ## Dependencies
 This component requires:
