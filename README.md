@@ -1,5 +1,5 @@
 # Weather Widget - Powered By ShadCN/UI
-<a href="https://21st.dev/r/fahadyaseen001/weather-widget"><img src="https://img.shields.io/badge/21st.dev-Component%20Library-blue?style=for-the-badge&logoWidth=150" alt="21st.dev" style="max-width: 100%; height: auto;"/></a>
+<a href="https://21st.dev/"><img src="https://img.shields.io/badge/21st.dev-Component%20Library-blue?style=for-the-badge&logoWidth=150" alt="21st.dev" style="max-width: 100%; height: auto;"/></a>
 
 
 > **Featured on 21st.dev!** 🎉
