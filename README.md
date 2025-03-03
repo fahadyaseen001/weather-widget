@@ -1,4 +1,10 @@
 # Weather Widget - Powered By ShadCN/UI
+<a href="https://21st.dev/r/fahadyaseen001/weather-widget"><img src="https://img.shields.io/badge/21st.dev-Component%20Library-blue?style=for-the-badge&logoWidth=150" alt="21st.dev" style="max-width: 100%; height: auto;"/></a>
+
+
+> **Featured on 21st.dev!** 🎉
+>
+> Check out this component on [21st.dev](https://21st.dev/fahadyaseen001/weather-widget/weather-widget-demo)
 
 A beautiful, customizable weather widget component that integrates seamlessly with shadcn/ui. It displays current weather information along with current location , date & time based on the user's location using the OpenWeatherMap API.
 
